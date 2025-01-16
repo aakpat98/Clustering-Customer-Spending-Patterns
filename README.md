@@ -4,7 +4,7 @@
 
 This repository contains the analysis and deliverables for a data analytics project aimed at understanding client spending patterns for Company XYZ, a wholesale distributor in Portugal. The project identifies meaningful client segments to help XYZ optimize inventory management, improve customer service, and drive strategic business decisions.
 
-The analysis uses the Wholesale Customers dataset, which includes annual spending data for 440 clients across six product categories, categorized by channel and region. The project outputs include a technical document (generated with RMarkdown) and a managerial document (executive summary).
+The analysis uses the Wholesale Customers dataset, which includes annual spending data for 440 clients across six product categories, categorized by channel and region. The project outputs include a technical document (generated with RMarkdown) and an executive summary.
 
 ---
 
