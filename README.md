@@ -53,22 +53,3 @@ Four distinct client segments were identified:
 2. **Small Horeca Businesses** - Low spenders across all categories.
 3. **Upscale Horeca Buyers** - High spenders on fresh and frozen products.
 4. **High-Value Clients** - Outliers with extremely high spending across all categories.
-
----
-
-## Deliverables
-
-### Technical Document
-The technical document (`Technical_Doc.pdf`) includes:
-- Data preprocessing steps.
-- Detailed clustering process and evaluations.
-- Visualizations and cluster characteristics.
-
-### Managerial Summary
-The managerial summary (`Executive_Summary.pdf`) provides:
-- Business-focused insights and recommendations tailored to each client segment.
-- Suggestions for improving inventory management, delivery optimization, and client retention.
-
----
-
-This project demonstrates the power of exploratory data analytics in deriving actionable insights for business growth. By identifying and understanding client segments, Company XYZ can enhance operational efficiency and customer satisfaction.
