@@ -1,4 +1,4 @@
-# README for Customer Spending Patterns Analysis Project
+# README for Customer Segmentation Project
 
 ## Overview
 
